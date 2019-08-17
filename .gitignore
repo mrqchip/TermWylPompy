@@ -1,0 +1,12 @@
+__Previews
+*.7z
+Database Messages.txt
+Debug/
+*.DsnWrk
+.metadata
+*.*Preview
+Project Log*
+Project Outputs*
+*.rar
+Status Report.txt
+*.zip
