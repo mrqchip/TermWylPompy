@@ -5,6 +5,7 @@ Debug/
 *.DsnWrk
 .metadata
 *.*Preview
+*.PcbDoc.htm
 Project Log*
 Project Outputs*
 *.rar
