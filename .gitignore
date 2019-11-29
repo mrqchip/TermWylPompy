@@ -2,7 +2,6 @@ __Previews
 *.7z
 Database Messages.txt
 Debug/
-*.DsnWrk
 .metadata
 *.*Preview
 *.PcbDoc.htm
