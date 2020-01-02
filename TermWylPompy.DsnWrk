@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=..\..\altiumlib\Schematic.LibPkg
-[Project2]
 ProjectPath=TermWylPompy\sch\v1\TermWylPompy1.PrjPcb
+[Project2]
+ProjectPath=..\altiumlib\Schematic.LibPkg
