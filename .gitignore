@@ -4,7 +4,7 @@ Database Messages.txt
 Debug/
 .metadata
 *.*Preview
-*.PcbDoc.htm
+*.Pcb*.htm
 Project Log*
 Project Outputs*
 *.rar
