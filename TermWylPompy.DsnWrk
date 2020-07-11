@@ -1,8 +1,10 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=TermWylPompy\sch\v1\TermWylPompy1.PrjPcb
+ProjectPath=Skrzynka1\sch\Skrzynka1.PrjPcb
 [Project2]
 ProjectPath=..\altiumlib\Schematic.LibPkg
 [Project3]
 ProjectPath=..\kamika\zzArchiwalne\AmpEth\sch\v2\AmpEth2.PrjPCB
+[Project4]
+ProjectPath=TermWylPompy\sch\v1\TermWylPompy1.PrjPcb
