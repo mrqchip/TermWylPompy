@@ -8,3 +8,5 @@ ProjectPath=..\altiumlib\Schematic.LibPkg
 ProjectPath=..\kamika\zzArchiwalne\AmpEth\sch\v2\AmpEth2.PrjPCB
 [Project4]
 ProjectPath=TermWylPompy\sch\v1\TermWylPompy1.PrjPcb
+[Project5]
+ProjectPath=..\moisair\sch\v3\MoisAir3.PrjPCB
