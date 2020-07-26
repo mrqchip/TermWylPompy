@@ -9,4 +9,10 @@ ProjectPath=..\kamika\zzArchiwalne\AmpEth\sch\v2\AmpEth2.PrjPCB
 [Project4]
 ProjectPath=TermWylPompy\sch\v1\TermWylPompy1.PrjPcb
 [Project5]
-ProjectPath=Y:\Archiw\Design\lars\Egzemplarze\SL_DINdis\v2Egz1-2\SL_DINdisv2Egz1-2.PRJPCB
+ProjectPath=..\starocie\Lars\SL_DINdis\SL_DINdisv2Egz1-2.PRJPCB
+[Project6]
+ProjectPath=..\starocie\Lars\SL_DIN\sch\v3\SL_DINv3.PrjPCB
+[Project7]
+ProjectPath=..\..\m\altiumlib\atm.LibPkg
+[Project8]
+ProjectPath=..\kamika\mechIPS\PS\sch\v6\PSv6.PrjPCB
